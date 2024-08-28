@@ -1,0 +1,9 @@
+{
+  "name": "htmlToPdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf-node": "^1.0.8"
+  }
+}
